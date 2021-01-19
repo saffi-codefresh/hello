@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saffi-codefresh/hello.git",
+  "author": "saffi <saffi.hartal@codefresh.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
