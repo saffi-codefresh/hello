@@ -1,0 +1,1 @@
+<script>alert('Malicious XSS');alert(document.cookie)</script>
